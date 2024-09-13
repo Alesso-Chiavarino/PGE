@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ-4", "EJ-4.csproj", "{49908C52-4039-473D-8150-D8A194032392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49908C52-4039-473D-8150-D8A194032392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49908C52-4039-473D-8150-D8A194032392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49908C52-4039-473D-8150-D8A194032392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49908C52-4039-473D-8150-D8A194032392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

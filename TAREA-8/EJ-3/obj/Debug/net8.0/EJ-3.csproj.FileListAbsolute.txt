@@ -1,0 +1,15 @@
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/bin/Debug/net8.0/EJ-3
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/bin/Debug/net8.0/EJ-3.deps.json
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/bin/Debug/net8.0/EJ-3.runtimeconfig.json
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/bin/Debug/net8.0/EJ-3.dll
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/bin/Debug/net8.0/EJ-3.pdb
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.AssemblyInfoInputs.cache
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.AssemblyInfo.cs
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.csproj.CoreCompileInputs.cache
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.sourcelink.json
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.dll
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/refint/EJ-3.dll
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.pdb
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/EJ-3.genruntimeconfig.cache
+/Users/alesso/dev/university/PGE/TAREA-8/EJ-3/obj/Debug/net8.0/ref/EJ-3.dll
